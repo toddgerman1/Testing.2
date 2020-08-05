@@ -11,6 +11,7 @@ namespace WebApplication1.Tests
         {
             Assert.IsTrue(true);
             Console.Write("Hello World");
+            Assert.IsFalse(false);
         }
     }
 }
